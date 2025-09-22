@@ -8,7 +8,6 @@ This project demonstrates cybersecurity awareness, IT risk detection, and Python
 ## 📌 Features
 - ✅ Evaluates **password strength** (length, digits, uppercase, lowercase, symbols).  
 - ✅ Checks against **known breaches** via HaveIBeenPwned API (secure SHA-1 k-anonymity method).  
-- ✅ Saves results into a **report.txt** file.  
 - ✅ Simple and extensible for future enhancements.  
 
 ---
